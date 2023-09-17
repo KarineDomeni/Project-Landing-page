@@ -1,4 +1,4 @@
-# Projeto landing page simples
+<h1 align="center" style="font-weight: bold;">Projeto landing page 💻</h1>
 
 Com HTML e CSS desenvolvi uma landing page simples e responsiva.
 
